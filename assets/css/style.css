@@ -1,0 +1,176 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
+body {
+    background-color: black !important;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#container  {
+    background-color: black;
+}
+
+#carrusel  {
+    background-color: black;
+    padding-bottom: 40px;
+}
+
+#titulo {
+    background-color: black;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#titulo-quienes {
+    background-color: black;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#titulo-destacados {
+    background-color: black;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+
+#titulo-contacto {
+    background-color: black;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+h2 {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+i{
+    font-size: larger;
+    font-weight: 400;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#presentacion {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-bottom: 80px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#formulario {
+    
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-bottom: 80px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#tarjetas {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-bottom: 60px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* #tarjetas .h1 {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    display: inline-block;
+} */
+
+#tarjetas .card-body {
+    background-color: #31caf0;
+    color: white;
+    padding: 15px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#tarjetas .card img {
+    display: inline-block;
+    width: auto;
+    height: 150px;
+}
+
+#tarjetas .card {
+    padding: 15px;
+    background-color: black;
+}
+
+#navbar-inicio .navbar-brand img {
+    width: 30px !important;
+    height: auto !important;
+}
+
+#navbar-inicio {
+    color: white;
+}
+
+.navbar-fondo {
+    background-color: #3096a1;
+    color: white;
+}
+
+#caja-azul {
+    background-color: #31caf0;
+}
+
+footer {
+    background-color: #31caf0;
+    color: white;
+}
+
+#navbar {
+    background-color: none !important;
+    color: white;
+
+}
+
+
+/* CSS de tooltips */
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bd-blue-bg);
+    --bs-tooltip-color: var(--bs-white);
+  }
